@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Welcome
+  -Seeker of Knowledge
+  -Bash Scripting
+  -Backend Environments
+  
 <!--
 **Wolfex11/Wolfex11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
